@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shtemisu
-- 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning Java, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested sports, history, programming
+- 🌱 I’m currently learning C, C++, Python
+- 💞️ I’m looking to collaborate on backend dev or maybe data science
+- 📫 How to reach me t.me/shemisu
+- 😄 Pronouns: he
 - ⚡ Fun fact: dumb
 
 <!---
