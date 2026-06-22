@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @shtemisu
-- 👀 I’m interested sports, history, programming
-- 🌱 I’m currently learning C, C++, Golang
 - 📫 How to reach me t.me/shemisu
 - ⚡ Fun fact: dumb
