@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shtemisu
-- 📫 How to reach me t.me/shemisu
+- 📫 How to reach me t.me/shtemisu
 - ⚡ Fun fact: dumb
